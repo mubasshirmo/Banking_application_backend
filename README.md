@@ -5,8 +5,7 @@ This project is a simple Banking Application built using Spring Boot, Spring Dat
 ## Features
 
 - **Account Management**: Create, update, and delete bank accounts.
-- **Transaction Handling**: Perform deposit, withdrawal, and transfer transactions.
-- **Customer Management**: Manage customer information associated with bank accounts.
+- **Transaction Handling**: Perform deposit, withdrawal, .
 
 ## Technologies Used
 
